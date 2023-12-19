@@ -10,7 +10,6 @@ to the most occuring card other than the joker itself.
 
 """
 
-from copy import deepcopy
 from collections import Counter
 from functools import cmp_to_key
 import numpy as np
